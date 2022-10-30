@@ -1,5 +1,7 @@
 # TecBlog
 
+https://github.com/Hayghlander/NoticiasCidade/blob/main/LICENCE
+
 # Sobre o projeto
 
 Site fictício de notícias
