@@ -8,7 +8,7 @@ Site fictício de notícias
 
 Site fictício de notícias, criado para que pudesse prosseguir desenvolvendo meus conhecimentos durante o curso de desenvolvimento web.
 
-# Home
+# Página Inicial
      
 ![foto1home](https://user-images.githubusercontent.com/113555075/198862868-5388d7f0-8148-430e-9b01-e60eaae1a970.png)
 
